@@ -13,7 +13,7 @@ h1 {
 }
 
 /* Container for the fruit cards */
-.fruit-catalog {
+#card-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
